@@ -1,0 +1,12 @@
+{
+  "name": "lambda-postgres-crud",
+  "version": "1.0.0",
+  "description": "AWS Lambda functions for CRUD operations on PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "pg": "^8.8.0"
+  }
+}
